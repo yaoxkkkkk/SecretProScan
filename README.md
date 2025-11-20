@@ -24,7 +24,7 @@ gzipped files are supported.
 
 ```shell
 snakemake \
-	--snakefile PhyPredi.smk \
+	--snakefile SecProScan.smk \
 	--use-conda \
 	--use-singularity \
 	--rerun-incomplete \
