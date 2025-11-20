@@ -1,7 +1,7 @@
 import os
 import subprocess
 
-configfile: "PhyPredi_config.yaml"
+configfile: "SecProScan_config.yaml"
 
 # Function to check if a file is gzipped
 def is_gzipped(file):
